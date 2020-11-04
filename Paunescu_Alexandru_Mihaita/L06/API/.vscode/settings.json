@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c5abf1b1-984e-474c-a076-e2233c1da5ba/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/PaunescuAlexandruMihaita-L04",
+    "appService.deploySubpath": "publish"
+}
